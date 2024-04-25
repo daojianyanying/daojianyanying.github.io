@@ -20,3 +20,4 @@ https://daojianyanying.github.io/tags/VisualSVN/
 https://daojianyanying.github.io/tags/Gitlab/
 https://daojianyanying.github.io/tags/Repo/
 https://daojianyanying.github.io/categories/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86/
+https://daojianyanying.github.io/categories/common/
