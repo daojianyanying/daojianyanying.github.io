@@ -11,6 +11,24 @@
   </url>
   
   <url>
+    <loc>https://daojianyanying.github.io/2024/04/22/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7-2-Git/</loc>
+    
+    <lastmod>2024-04-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://daojianyanying.github.io/2024/04/22/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7-1-SVN/</loc>
+    
+    <lastmod>2024-04-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://daojianyanying.github.io/2024/04/22/Web%E6%9C%8D%E5%8A%A1%E7%AB%AF%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86-1-Gitlab/</loc>
     
     <lastmod>2024-04-25</lastmod>
@@ -57,24 +75,6 @@
   
   <url>
     <loc>https://daojianyanying.github.io/2024/04/22/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7-3-Repo/</loc>
-    
-    <lastmod>2024-04-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://daojianyanying.github.io/2024/04/22/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7-2-Git/</loc>
-    
-    <lastmod>2024-04-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://daojianyanying.github.io/2024/04/22/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7-1-SVN/</loc>
     
     <lastmod>2024-04-22</lastmod>
     
@@ -135,7 +135,7 @@
   </url>
   
   <url>
-    <loc>https://daojianyanying.github.io/tags/Gerrit/</loc>
+    <loc>https://daojianyanying.github.io/tags/Gitlab/</loc>
     <lastmod>2024-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -143,6 +143,13 @@
   
   <url>
     <loc>https://daojianyanying.github.io/tags/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2024-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://daojianyanying.github.io/tags/Gerrit/</loc>
     <lastmod>2024-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -157,13 +164,6 @@
   
   <url>
     <loc>https://daojianyanying.github.io/tags/VisualSVN/</loc>
-    <lastmod>2024-04-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://daojianyanying.github.io/tags/Gitlab/</loc>
     <lastmod>2024-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
