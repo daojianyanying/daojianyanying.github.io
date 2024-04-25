@@ -1,4 +1,4 @@
-# menu
+# 菜单栏
 menu:
   Home: .
   Archives: archives  # 归档
@@ -33,16 +33,20 @@ site:
     url: ../images/logo.png
   title: 淡定莽夫的博客 # 页面title
   favicon: /favicon.png
-  board: <p>欢迎交流与分享经验!</p> # 站点公告
+  # board: <p>欢迎交流与分享经验!</p> # 站点公告
   copyright: false # 底部版权信息
   language: zh-CN
 
 # config
 config:
-  skin: # 主题颜色 theme-black theme-blue theme-green theme-purple
-  layout: main-center # 布局方式 main-left main-center main-right
-  toc: true # 是否开启文章章节目录导航
-  menu_highlight: false # 是否开启当前菜单高亮显示
+  # 主题颜色 theme-black theme-blue theme-green theme-purple
+  skin: theme-black
+  # 布局方式 main-left main-center main-right
+  layout: main-center 
+  # 是否开启文章章节目录导航
+  toc: false 
+  # 是否开启当前菜单高亮显示
+  menu_highlight: true 
   thumbnail: false # enable posts thumbnail, options: true, false
   excerpt_link: Read More
   #New
@@ -62,12 +66,12 @@ pagination:
 # Sidebar
 sidebar: right
 widgets:
-  - board  
+  # - board  
   - category
   - tag
-  - tagcloud
-  - archive
-  - recent_posts
+  # - tagcloud
+  # - archive
+  # - recent_posts
 
 # display widgets at the bottom of index pages (pagination == 2)
 index_widgets:
@@ -156,8 +160,8 @@ comment:
 # Api：
   # https://developers.douban.com/wiki/?title=book_v2 图书
   # https://developers.douban.com/wiki/?title=movie_v2 电影
-# books：  
-  # https://api.douban.com/v2/book/user/:name/collections?start=0&count=100 个人书单列表
+books:
+  https://api.douban.com/v2/book/user/:name/collections?start=0&count=100 个人书单列表
 # movies: 
   # https://api.douban.com/v2/movie/in_theaters 正在上映的电影
   # https://api.douban.com/v2/movie/coming_soon 即将上映的电影
@@ -200,7 +204,7 @@ fb_app_id:
 # profile
 profile:
   enabled: true # Whether to show profile bar
-  articleSelfBlock: false # 关闭文章下方的自我介绍
+  articleSelfBlock: true # 关闭文章下方的自我介绍
   avatar: images/avatar.jpg
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
   author: 淡定莽夫
@@ -237,7 +241,7 @@ profile:
     Behance: https://www.behance.net/cofess
   # My Personal Labels
   labels:
-    - 前端
+    - Git
     - 前端开发
     - 前端重构
     - Web前端
