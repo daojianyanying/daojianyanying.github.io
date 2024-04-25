@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="https://daojianyanying.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://daojianyanying.github.io/"/>
+  <updated>2024-04-22T11:39:30.599Z</updated>
+  <id>https://daojianyanying.github.io/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>代码管理工具(3)-Repo</title>
+    <link href="https://daojianyanying.github.io/2024/04/22/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7-3-Repo/"/>
+    <id>https://daojianyanying.github.io/2024/04/22/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7-3-Repo/</id>
+    <published>2024-04-22T11:36:37.000Z</published>
+    <updated>2024-04-22T11:39:30.599Z</updated>
+    
+    
+    
+    
+    <category term="代码管理" scheme="https://daojianyanying.github.io/categories/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86/"/>
+    
+    
+    <category term="Git" scheme="https://daojianyanying.github.io/tags/Git/"/>
+    
+    <category term="Repo" scheme="https://daojianyanying.github.io/tags/Repo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>代码管理工具(2)-Git</title>
+    <link href="https://daojianyanying.github.io/2024/04/22/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7-2-Git/"/>
+    <id>https://daojianyanying.github.io/2024/04/22/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7-2-Git/</id>
+    <published>2024-04-22T11:36:33.000Z</published>
+    <updated>2024-04-22T11:39:16.562Z</updated>
+    
+    
+    
+    
+    <category term="代码管理" scheme="https://daojianyanying.github.io/categories/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86/"/>
+    
+    
+    <category term="Git" scheme="https://daojianyanying.github.io/tags/Git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>代码管理工具(1)-SVN</title>
+    <link href="https://daojianyanying.github.io/2024/04/22/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7-1-SVN/"/>
+    <id>https://daojianyanying.github.io/2024/04/22/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7-1-SVN/</id>
+    <published>2024-04-22T11:36:28.000Z</published>
+    <updated>2024-04-22T11:39:04.959Z</updated>
+    
+    
+    
+    
+    <category term="代码管理" scheme="https://daojianyanying.github.io/categories/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86/"/>
+    
+    
+    <category term="代码管理" scheme="https://daojianyanying.github.io/tags/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86/"/>
+    
+    <category term="SVN" scheme="https://daojianyanying.github.io/tags/SVN/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Web服务端代码管理(3)-VisualSVN</title>
+    <link href="https://daojianyanying.github.io/2024/04/22/Web%E6%9C%8D%E5%8A%A1%E7%AB%AF%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86-3-VisualSVN/"/>
+    <id>https://daojianyanying.github.io/2024/04/22/Web%E6%9C%8D%E5%8A%A1%E7%AB%AF%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86-3-VisualSVN/</id>
+    <published>2024-04-22T11:36:22.000Z</published>
+    <updated>2024-04-22T11:38:19.436Z</updated>
+    
+    
+    
+    
+    <category term="代码管理" scheme="https://daojianyanying.github.io/categories/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86/"/>
+    
+    
+    <category term="代码管理" scheme="https://daojianyanying.github.io/tags/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86/"/>
+    
+    <category term="SVN" scheme="https://daojianyanying.github.io/tags/SVN/"/>
+    
+    <category term="VisualSVN" scheme="https://daojianyanying.github.io/tags/VisualSVN/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Web服务端代码管理(2)-Gerrit</title>
+    <link href="https://daojianyanying.github.io/2024/04/22/Web%E6%9C%8D%E5%8A%A1%E7%AB%AF%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86-2-Gerrit/"/>
+    <id>https://daojianyanying.github.io/2024/04/22/Web%E6%9C%8D%E5%8A%A1%E7%AB%AF%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86-2-Gerrit/</id>
+    <published>2024-04-22T11:35:30.000Z</published>
+    <updated>2024-04-22T11:37:55.726Z</updated>
+    
+    
+    
+    
+    <category term="代码管理" scheme="https://daojianyanying.github.io/categories/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86/"/>
+    
+    
+    <category term="Git" scheme="https://daojianyanying.github.io/tags/Git/"/>
+    
+    <category term="Gerrit" scheme="https://daojianyanying.github.io/tags/Gerrit/"/>
+    
+    <category term="代码管理" scheme="https://daojianyanying.github.io/tags/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Web服务端代码管理(1)-Gitlab</title>
+    <link href="https://daojianyanying.github.io/2024/04/22/Web%E6%9C%8D%E5%8A%A1%E7%AB%AF%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86-1-Gitlab/"/>
+    <id>https://daojianyanying.github.io/2024/04/22/Web%E6%9C%8D%E5%8A%A1%E7%AB%AF%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86-1-Gitlab/</id>
+    <published>2024-04-22T11:35:23.000Z</published>
+    <updated>2024-04-25T03:57:56.591Z</updated>
+    
+    
+    
+    
+    <category term="代码管理" scheme="https://daojianyanying.github.io/categories/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86/"/>
+    
+    
+    <category term="Git" scheme="https://daojianyanying.github.io/tags/Git/"/>
+    
+    <category term="代码管理" scheme="https://daojianyanying.github.io/tags/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86/"/>
+    
+    <category term="Gitlab" scheme="https://daojianyanying.github.io/tags/Gitlab/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo搭建个人博客</title>
+    <link href="https://daojianyanying.github.io/2024/04/21/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA-Hexo/"/>
+    <id>https://daojianyanying.github.io/2024/04/21/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA-Hexo/</id>
+    <published>2024-04-21T14:23:44.847Z</published>
+    <updated>2024-04-25T05:47:04.966Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
