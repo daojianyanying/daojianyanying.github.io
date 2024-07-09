@@ -2,18 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://daojianyanying.github.io/2024/05/26/SonarQube%E4%BD%BF%E7%94%A8/</loc>
+    <loc>https://daojianyanying.github.io/2024/04/22/Web%E6%9C%8D%E5%8A%A1%E7%AB%AF%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86-2-Gerrit/</loc>
     
-    <lastmod>2024-05-26</lastmod>
+    <lastmod>2024-07-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://daojianyanying.github.io/2024/04/22/Web%E6%9C%8D%E5%8A%A1%E7%AB%AF%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86-2-Gerrit/</loc>
+    <loc>https://daojianyanying.github.io/2024/04/22/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7-2-Git/</loc>
     
-    <lastmod>2024-05-07</lastmod>
+    <lastmod>2024-07-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://daojianyanying.github.io/2024/06/14/Minio%E7%9A%84%E5%AE%89%E8%A3%85%E5%92%8C%E4%BD%BF%E7%94%A8/</loc>
+    
+    <lastmod>2024-06-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://daojianyanying.github.io/2024/05/26/SonarQube%E4%BD%BF%E7%94%A8/</loc>
+    
+    <lastmod>2024-05-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -39,15 +57,6 @@
   
   <url>
     <loc>https://daojianyanying.github.io/2024/04/21/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA-Hexo/</loc>
-    
-    <lastmod>2024-04-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://daojianyanying.github.io/2024/04/22/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7-2-Git/</loc>
     
     <lastmod>2024-04-25</lastmod>
     
@@ -139,7 +148,7 @@
 
   <url>
     <loc>https://daojianyanying.github.io/</loc>
-    <lastmod>2024-05-26</lastmod>
+    <lastmod>2024-07-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -147,56 +156,56 @@
   
   <url>
     <loc>https://daojianyanying.github.io/tags/Git/</loc>
-    <lastmod>2024-05-26</lastmod>
+    <lastmod>2024-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://daojianyanying.github.io/tags/Gitlab/</loc>
-    <lastmod>2024-05-26</lastmod>
+    <lastmod>2024-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://daojianyanying.github.io/tags/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86/</loc>
-    <lastmod>2024-05-26</lastmod>
+    <lastmod>2024-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://daojianyanying.github.io/tags/Gerrit/</loc>
-    <lastmod>2024-05-26</lastmod>
+    <lastmod>2024-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://daojianyanying.github.io/tags/SVN/</loc>
-    <lastmod>2024-05-26</lastmod>
+    <lastmod>2024-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://daojianyanying.github.io/tags/VisualSVN/</loc>
-    <lastmod>2024-05-26</lastmod>
+    <lastmod>2024-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://daojianyanying.github.io/tags/Repo/</loc>
-    <lastmod>2024-05-26</lastmod>
+    <lastmod>2024-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://daojianyanying.github.io/tags/linux/</loc>
-    <lastmod>2024-05-26</lastmod>
+    <lastmod>2024-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -205,21 +214,21 @@
   
   <url>
     <loc>https://daojianyanying.github.io/categories/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86/</loc>
-    <lastmod>2024-05-26</lastmod>
+    <lastmod>2024-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://daojianyanying.github.io/categories/common/</loc>
-    <lastmod>2024-05-26</lastmod>
+    <lastmod>2024-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://daojianyanying.github.io/categories/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2024-05-26</lastmod>
+    <lastmod>2024-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

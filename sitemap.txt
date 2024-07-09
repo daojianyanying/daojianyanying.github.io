@@ -1,9 +1,10 @@
-https://daojianyanying.github.io/2024/05/26/SonarQube%E4%BD%BF%E7%94%A8/
 https://daojianyanying.github.io/2024/04/22/Web%E6%9C%8D%E5%8A%A1%E7%AB%AF%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86-2-Gerrit/
+https://daojianyanying.github.io/2024/04/22/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7-2-Git/
+https://daojianyanying.github.io/2024/06/14/Minio%E7%9A%84%E5%AE%89%E8%A3%85%E5%92%8C%E4%BD%BF%E7%94%A8/
+https://daojianyanying.github.io/2024/05/26/SonarQube%E4%BD%BF%E7%94%A8/
 https://daojianyanying.github.io/2024/04/22/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7-3-Repo/
 https://daojianyanying.github.io/2024/04/22/linux%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80%E5%91%BD%E4%BB%A4-1-%E6%9F%A5%E7%9C%8B/
 https://daojianyanying.github.io/2024/04/21/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA-Hexo/
-https://daojianyanying.github.io/2024/04/22/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7-2-Git/
 https://daojianyanying.github.io/2024/04/22/%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7-1-SVN/
 https://daojianyanying.github.io/2024/04/22/Web%E6%9C%8D%E5%8A%A1%E7%AB%AF%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86-1-Gitlab/
 https://daojianyanying.github.io/about/index.html
