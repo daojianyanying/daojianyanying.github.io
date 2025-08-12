@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>devops/k8s的安装</title>
+    <link href="/2025/08/11/devops-k8s%E7%9A%84%E5%AE%89%E8%A3%85/"/>
+    <url>/2025/08/11/devops-k8s%E7%9A%84%E5%AE%89%E8%A3%85/</url>
+    
+    <content type="html"><![CDATA[<h1 id="K8S安装"><a href="#K8S安装" class="headerlink" title="K8S安装"></a><center>K8S安装</center></h1><h4 id="一、环境准备"><a href="#一、环境准备" class="headerlink" title="一、环境准备"></a><div style="background-color:cadetblue">一、环境准备</div></h4><table><thead><tr><th align="left">机器名</th><th align="center">ip</th><th align="right">系统版本</th><th align="right">k8s版本</th></tr></thead><tbody><tr><td align="left">k8s-master</td><td align="center">192.168.12.101</td><td align="right">ubuntu 24.04</td><td align="right">v1.32</td></tr><tr><td align="left">k8s-work01</td><td align="center">192.168.12.101</td><td align="right">ubuntu 24.04</td><td align="right">v1.32</td></tr><tr><td align="left">k8s-work02</td><td align="center">192.168.12.102</td><td align="right">ubuntu 24.04</td><td align="right">v1.32</td></tr></tbody></table><h4 id="二、机器配置"><a href="#二、机器配置" class="headerlink" title="二、机器配置"></a><div style="background-color:cadetblue">二、机器配置</div></h4><h4 id="三、CNI安装"><a href="#三、CNI安装" class="headerlink" title="三、CNI安装"></a><div style="background-color:cadetblue">三、CNI安装</div></h4><h4 id="四、k8s安装"><a href="#四、k8s安装" class="headerlink" title="四、k8s安装"></a><div style="background-color:cadetblue">四、k8s安装</div></h4><h4 id="五、网络插件安装"><a href="#五、网络插件安装" class="headerlink" title="五、网络插件安装"></a><div style="background-color:cadetblue">五、网络插件安装</div></h4><h4 id="六、安装验证"><a href="#六、安装验证" class="headerlink" title="六、安装验证"></a><div style="background-color:cadetblue">六、安装验证</div></h4><h4 id="七、镜像代理配置"><a href="#七、镜像代理配置" class="headerlink" title="七、镜像代理配置"></a><div style="background-color:cadetblue">七、镜像代理配置</div></h4><hr><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><section class="footnotes"><div class="footnote-list"><ol><li><span id="fn:1" class="footnote-text"><span>参考资料1<a href="#fnref:1" rev="footnote" class="footnote-backref"> ↩</a></span></span></li><li><span id="fn:2" class="footnote-text"><span>参考资料2<a href="#fnref:2" rev="footnote" class="footnote-backref"> ↩</a></span></span></li></ol></div></section>]]></content>
+    
+    
+    <categories>
+      
+      <category>容器化</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>k8s</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2025/08/10/hello-world/"/>
     <url>/2025/08/10/hello-world/</url>
