@@ -10,9 +10,10 @@ favicon: /img/qinjiao.jpg
 # Icon for Apple touch
 apple_touch_icon: /img/qinjiao.jpg
 
-banner_img: /img/bg/background.jpg
+
 
 index:
+  # banner_img: /img/bg/background.jpg
   slogan:
     enable: true
     text: DevOps学习和实践之旅

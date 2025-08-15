@@ -1,9 +1,9 @@
 ---
-title: devops/k8s的安装
+title: k8s的安装
 date: 2025-08-11 15:42:58
 update: 2025-08-12 15:42:58
 tags: [k8s]
-index_img: /img/bg/background.jpg
+index_img: /img/bg/k8s.jpg
 excerpt: ubuntu22安装k8s的1.32版本(docker)
 sticky: 100
 category: 容器化
