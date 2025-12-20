@@ -98,6 +98,43 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: fluid
 
+# Markdown 渲染设置
+markdown:
+  preset: "default"
+  render:
+    html: true
+    xhtmlOut: false
+    breaks: true
+    linkify: true
+    typographer: true
+    quotes: "“”‘’"
+  plugins:
+    - markdown-it-abbr
+    - markdown-it-footnote
+    - markdown-it-ins
+    - markdown-it-sub
+    - markdown-it-sup
+    - markdown-it-mark
+    - markdown-it-deflist
+    - markdown-it-task-lists
+    - markdown-it-container
+
+# 数学公式支持
+mathjax:
+  enable: true
+  packages: ['amsmath', 'amssymb', 'color']
+  singleDollars: true
+  cjkWidth: 0.9
+  normalWidth: 0.6
+  appendCSS: true
+  tags: none
+
+# 代码高亮增强
+prism_plugin:
+  mode: 'preprocess'
+  theme: 'tomorrow'
+  line_number: true
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
